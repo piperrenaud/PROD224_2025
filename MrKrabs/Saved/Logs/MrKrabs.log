@@ -1366,3 +1366,335 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.24-21.55.16:893][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 11.455066
 [2025.07.24-21.55.16:896][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -145532755
 [2025.07.24-21.55.16:896][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11.455066, Update Interval: 309.128082
+[2025.07.24-21.55.47:174][ 99]LogPSOHitching: Encountered 150 PSO creation hitches so far (44 graphics, 106 compute). 0 of them were precached.
+[2025.07.24-21.56.55:829][306]LogDerivedDataCache: C:/Users/pre55/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.24-21.57.05:237][334]LogDerivedDataCache: //sopd-syn1/UnrealDDC: Maintenance finished in +00:00:09.128 and deleted 61 files with total size 1 MiB and 21 empty folders. Scanned 259 files in 2462 folders with total size 12 MiB.
+[2025.07.24-21.58.49:307][743]LogStreaming: Display: FlushAsyncLoading(481): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.24-21.58.49:310][743]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Flicker.Flicker
+[2025.07.24-21.58.49:320][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.07.24-21.58.49:320][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.07.24-21.58.49:320][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.07.24-21.58.49:320][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.07.24-21.58.49:320][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.07.24-21.58.49:320][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.07.24-21.58.49:320][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.07.24-21.58.49:321][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.07.24-21.58.49:321][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.07.24-21.58.49:322][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.07.24-21.58.49:322][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.07.24-21.58.49:322][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.07.24-21.58.49:322][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.07.24-21.58.49:322][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.07.24-21.58.49:322][743]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.07.24-21.58.49:322][743]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.07.24-21.58.49:349][743]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.07.24-21.58.49:683][743]LogChaosDD: Creating Chaos Debug Draw Scene for world Krab
+[2025.07.24-21.58.49:684][743]LogWorldPartition: ULevel::OnLevelLoaded(Krab)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.07.24-21.58.49:684][743]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.24-21.58.49:684][743]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Krab.Krab, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.24-21.58.49:700][743]LogWorldPartition: Display: WorldPartition initialize took 16.611 ms (total: 440.021 ms)
+[2025.07.24-21.58.49:701][743]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Krab.Krab
+[2025.07.24-21.58.49:702][743]Cmd: MAP LOAD FILE="../../../../../../Local/pre55/PROD224_2025/MrKrabs/Content/Krab.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.07.24-21.58.49:756][743]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.24-21.58.49:756][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.24-21.58.49:756][743]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2025.07.24-21.58.49:773][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.24-21.58.49:836][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.07.24-21.58.49:842][743]LogWorld: UWorld::CleanupWorld for Krab, bSessionEnded=true, bCleanupResources=true
+[2025.07.24-21.58.49:842][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.24-21.58.49:842][743]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Krab.Krab
+[2025.07.24-21.58.49:913][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.07.24-21.58.49:923][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.07.24-21.58.49:930][743]LogAudio: Display: Audio Device (ID: 1) registered with world 'Krab'.
+[2025.07.24-21.58.49:930][743]LogChaosDD: Creating Chaos Debug Draw Scene for world Krab
+[2025.07.24-21.58.49:932][743]LogWorldPartition: ULevel::OnLevelLoaded(Krab)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.07.24-21.58.49:932][743]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.24-21.58.49:932][743]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Krab.Krab, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.24-21.58.50:338][743]LogWorldPartition: Display: WorldPartition initialize took 406.418 ms (total: 846.439 ms)
+[2025.07.24-21.58.50:899][743]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.07.24-21.58.50:912][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.07.24-21.58.50:928][743]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.07.24-21.58.50:931][743]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.031ms to complete.
+[2025.07.24-21.58.50:949][743]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PointLight2_Blueprint.PointLight2_Blueprint
+[2025.07.24-21.58.50:951][743]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.07.24-21.58.52:320][743]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.07.24-21.58.52:748][743]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.24-21.58.52:749][743]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.24-21.58.52:749][743]MaterialEditorStats: Shader Count: 0
+[2025.07.24-21.58.52:749][743]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.07.24-21.58.52:749][743]MaterialEditorStats: Light function material IS compatible with the light function atlas for fast batched deferred light shading.
+[2025.07.24-21.58.52:780][743]LogSlate: Took 0.000443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.07.24-21.58.53:142][746]MaterialEditorStats: Base pass shader without light map: 90 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.24-21.58.53:142][746]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.24-21.58.53:142][746]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.24-21.58.53:142][746]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.24-21.58.53:142][746]MaterialEditorStats: Shader Count: 2
+[2025.07.24-21.58.53:142][746]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.07.24-21.58.53:142][746]MaterialEditorStats: Light function material IS compatible with the light function atlas for fast batched deferred light shading.
+[2025.07.24-21.58.53:971][767]LogPSOHitching: Encountered 200 PSO creation hitches so far (64 graphics, 136 compute). 0 of them were precached.
+[2025.07.24-21.58.55:808][826]LogPSOHitching: Encountered 250 PSO creation hitches so far (87 graphics, 163 compute). 0 of them were precached.
+[2025.07.24-21.58.56:842][828]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.07.24-21.58.58:190][873]LogPSOHitching: Encountered 300 PSO creation hitches so far (93 graphics, 207 compute). 0 of them were precached.
+[2025.07.24-22.00.25:699][798]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 320.594238
+[2025.07.24-22.00.25:958][829]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.24-22.00.25:958][829]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 320.844421, Update Interval: 334.875336
+[2025.07.24-22.01.50:291][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.07.24-22.03.35:489][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.07.24-22.04.03:627][485]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.24-22.04.03:647][485]LogContentBundle: [Krab(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.24-22.04.03:647][485]LogWorldPartition: Display: GenerateStreaming for 'Krab' started...
+[2025.07.24-22.04.03:661][485]LogWorldPartition: Display: GenerateStreaming for 'Krab' took 13.808 ms
+[2025.07.24-22.04.03:665][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.24-22.04.03:671][485]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.07.24-22.04.03:671][485]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.07.24-22.04.03:673][485]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Krab
+[2025.07.24-22.04.03:692][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018733s)
+[2025.07.24-22.04.03:692][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Krab.Krab to /Game/UEDPIE_0_Krab.Krab (0.018820s)
+[2025.07.24-22.04.03:717][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.07.24-22.04.03:720][485]LogChaosDD: Creating Chaos Debug Draw Scene for world Krab
+[2025.07.24-22.04.03:722][485]LogWorldPartition: ULevel::OnLevelLoaded(Krab)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.24-22.04.03:723][485]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.24-22.04.03:723][485]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Krab.Krab, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.24-22.04.03:723][485]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.24-22.04.03:735][485]LogWorldPartition: Display: WorldPartition initialize took 12.516 ms (total: 858.955 ms)
+[2025.07.24-22.04.03:735][485]LogPlayLevel: PIE: World Init took: (0.015392s)
+[2025.07.24-22.04.03:737][485]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.07.24-22.04.03:737][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.24-22.04.03:737][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.24-22.04.03:737][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.24-22.04.03:737][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.24-22.04.03:737][485]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.24-22.04.03:737][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.24-22.04.03:737][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.24-22.04.03:737][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.24-22.04.03:737][485]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.24-22.04.03:737][485]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.24-22.04.03:737][485]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.24-22.04.03:740][485]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.24-22.04.03:764][485]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2025.07.24-22.04.03:765][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.24-22.04.03:765][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.24-22.04.03:765][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.24-22.04.03:765][485]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.07.24-22.04.03:765][485]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.07.24-22.04.03:769][485]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.07.24-22.04.03:769][485]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.07.24-22.04.03:769][485]LogInit: FAudioDevice initialized with ID 2.
+[2025.07.24-22.04.03:769][485]LogAudio: Display: Audio Device (ID: 2) registered with world 'Krab'.
+[2025.07.24-22.04.03:769][485]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.24-22.04.03:774][485]LogLoad: Game class is 'GameModeBase'
+[2025.07.24-22.04.03:777][485]LogWorld: Bringing World /Game/UEDPIE_0_Krab.Krab up for play (max tick rate 0) at 2025.07.25-10.04.03
+[2025.07.24-22.04.03:778][485]LogWorld: Bringing up level for play took: 0.002872
+[2025.07.24-22.04.03:781][485]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.07.24-22.04.03:808][485]LogStreaming: Display: FlushAsyncLoading(956,955,954,953,952,951,950,949,948,947,946,945,944,943,942,941,940,939,938,937,936,935,934,933,932,931,930,929,928,927,926,925,924,923,922,921,920,907,908,909,910,911,912,913,914,915,916,917,918,919,901,902,903,904,905,906,900,883,884,885,886,887,888,889,890,891,892,893,894,895,896,897,898,899,882,880,881,879,878): 79 QueuedPackages, 0 AsyncPackages
+[2025.07.24-22.04.04:105][485]PIE: Server logged in
+[2025.07.24-22.04.04:106][485]PIE: Play in editor total start time 0.46 seconds.
+[2025.07.24-22.04.14:529][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.24-22.04.14:529][ 84]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Krab
+[2025.07.24-22.04.14:555][ 84]LogWorld: UWorld::CleanupWorld for Krab, bSessionEnded=true, bCleanupResources=true
+[2025.07.24-22.04.14:557][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.24-22.04.14:557][ 84]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Krab.Krab
+[2025.07.24-22.04.14:570][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.24-22.04.14:581][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.24-22.04.14:621][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.24-22.04.14:621][ 84]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.24-22.04.14:621][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.07.24-22.04.14:624][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.07.24-22.04.14:643][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.07.24-22.04.14:748][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.07.24-22.04.23:031][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.07.24-22.04.25:536][ 48]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.24-22.04.25:546][ 48]LogContentBundle: [Krab(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.24-22.04.25:546][ 48]LogWorldPartition: Display: GenerateStreaming for 'Krab' started...
+[2025.07.24-22.04.25:561][ 48]LogWorldPartition: Display: GenerateStreaming for 'Krab' took 14.527 ms (total: 28.335 ms)
+[2025.07.24-22.04.25:561][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.24-22.04.25:561][ 48]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Krab
+[2025.07.24-22.04.25:577][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016202s)
+[2025.07.24-22.04.25:577][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Krab.Krab to /Game/UEDPIE_0_Krab.Krab (0.016245s)
+[2025.07.24-22.04.25:601][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.07.24-22.04.25:602][ 48]LogChaosDD: Creating Chaos Debug Draw Scene for world Krab
+[2025.07.24-22.04.25:604][ 48]LogWorldPartition: ULevel::OnLevelLoaded(Krab)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.24-22.04.25:604][ 48]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.24-22.04.25:604][ 48]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Krab.Krab, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.24-22.04.25:604][ 48]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.24-22.04.25:622][ 48]LogWorldPartition: Display: WorldPartition initialize took 18.089 ms (total: 877.045 ms)
+[2025.07.24-22.04.25:622][ 48]LogPlayLevel: PIE: World Init took: (0.020176s)
+[2025.07.24-22.04.25:623][ 48]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.07.24-22.04.25:624][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.24-22.04.25:624][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.24-22.04.25:624][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.24-22.04.25:624][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.24-22.04.25:624][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.24-22.04.25:624][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.24-22.04.25:624][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.24-22.04.25:624][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.24-22.04.25:624][ 48]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.24-22.04.25:624][ 48]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.24-22.04.25:624][ 48]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.24-22.04.25:626][ 48]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.24-22.04.25:650][ 48]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2025.07.24-22.04.25:651][ 48]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.24-22.04.25:651][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.24-22.04.25:651][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.24-22.04.25:651][ 48]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.07.24-22.04.25:651][ 48]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.07.24-22.04.25:655][ 48]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.07.24-22.04.25:655][ 48]LogInit: FAudioDevice initialized with ID 3.
+[2025.07.24-22.04.25:655][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.07.24-22.04.25:655][ 48]LogAudio: Display: Audio Device (ID: 3) registered with world 'Krab'.
+[2025.07.24-22.04.25:655][ 48]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.07.24-22.04.25:658][ 48]LogLoad: Game class is 'GameModeBase'
+[2025.07.24-22.04.25:662][ 48]LogWorld: Bringing World /Game/UEDPIE_0_Krab.Krab up for play (max tick rate 0) at 2025.07.25-10.04.25
+[2025.07.24-22.04.25:662][ 48]LogWorld: Bringing up level for play took: 0.003970
+[2025.07.24-22.04.25:665][ 48]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.07.24-22.04.25:674][ 48]LogStreaming: Display: FlushAsyncLoading(1035,1034,1033,1032,1031,1030,1029,1028,1027,1026,1025,1024,1023,1022,1021,1020,1019,1018,1017,1016,1015,1014,1013,1012,1011,1010,1009,1008,1007,1006,1005,1004,1003,1002,1001,1000,999,986,987,988,989,990,991,992,993,994,995,996,997,998,980,981,982,983,984,985,979,962,963,964,965,966,967,968,969,970,971,972,973,974,975,976,977,978,961,959,960,958,957): 79 QueuedPackages, 0 AsyncPackages
+[2025.07.24-22.04.25:928][ 48]PIE: Server logged in
+[2025.07.24-22.04.25:930][ 48]PIE: Play in editor total start time 0.383 seconds.
+[2025.07.24-22.04.28:001][165]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.07.24-22.04.34:178][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.24-22.04.34:178][532]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Krab
+[2025.07.24-22.04.34:202][532]LogWorld: UWorld::CleanupWorld for Krab, bSessionEnded=true, bCleanupResources=true
+[2025.07.24-22.04.34:202][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.24-22.04.34:202][532]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Krab.Krab
+[2025.07.24-22.04.34:207][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.24-22.04.34:214][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.24-22.04.34:240][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.24-22.04.34:241][532]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.07.24-22.04.34:241][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.07.24-22.04.34:243][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.07.24-22.04.34:257][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.07.24-22.04.34:366][533]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.07.24-22.04.37:288][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.07.24-22.04.37:298][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.24-22.04.37:355][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PointLight2_Blueprint] ([2] browsable assets)...
+[2025.07.24-22.04.37:355][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/PointLight2_Blueprint]
+[2025.07.24-22.04.37:355][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PointLight2_Blueprint" FILE="../../../../../../Local/pre55/PROD224_2025/MrKrabs/Content/PointLight2_Blueprint.uasset" SILENT=true
+[2025.07.24-22.04.37:368][692]LogSavePackage: Moving output files for package: /Game/PointLight2_Blueprint
+[2025.07.24-22.04.37:369][692]LogSavePackage: Moving '../../../../../../Local/pre55/PROD224_2025/MrKrabs/Saved/PointLight2_BlueprintD0DB6A3C453CD59B7423919655024202.tmp' to '../../../../../../Local/pre55/PROD224_2025/MrKrabs/Content/PointLight2_Blueprint.uasset'
+[2025.07.24-22.04.37:383][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.251 ms
+[2025.07.24-22.04.37:440][692]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.24-22.04.37:440][692]LogContentValidation: Enabled validators:
+[2025.07.24-22.04.37:440][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.24-22.04.37:440][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.24-22.04.37:440][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.24-22.04.37:440][692]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.24-22.04.37:440][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.24-22.04.37:440][692]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.24-22.04.37:440][692]AssetCheck: /Game/PointLight2_Blueprint Validating asset
+[2025.07.24-22.06.01:839][163]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.24-22.06.04:353][226]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 659.244385
+[2025.07.24-22.06.04:674][239]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.24-22.06.04:674][239]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 659.503113, Update Interval: 325.382843
+[2025.07.24-22.06.10:147][482]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.07.24-22.08.20:267][210]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.24-22.08.20:280][210]LogContentBundle: [Krab(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.24-22.08.20:280][210]LogWorldPartition: Display: GenerateStreaming for 'Krab' started...
+[2025.07.24-22.08.20:298][210]LogWorldPartition: Display: GenerateStreaming for 'Krab' took 17.328 ms (total: 45.664 ms)
+[2025.07.24-22.08.20:298][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.24-22.08.20:298][210]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Krab
+[2025.07.24-22.08.20:320][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021868s)
+[2025.07.24-22.08.20:320][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Krab.Krab to /Game/UEDPIE_0_Krab.Krab (0.021917s)
+[2025.07.24-22.08.20:349][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.07.24-22.08.20:352][210]LogChaosDD: Creating Chaos Debug Draw Scene for world Krab
+[2025.07.24-22.08.20:355][210]LogWorldPartition: ULevel::OnLevelLoaded(Krab)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.24-22.08.20:355][210]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.24-22.08.20:355][210]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Krab.Krab, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.24-22.08.20:355][210]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.24-22.08.20:371][210]LogWorldPartition: Display: WorldPartition initialize took 16.334 ms (total: 893.380 ms)
+[2025.07.24-22.08.20:371][210]LogPlayLevel: PIE: World Init took: (0.018996s)
+[2025.07.24-22.08.20:373][210]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.07.24-22.08.20:373][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.24-22.08.20:373][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.24-22.08.20:373][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.24-22.08.20:373][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.24-22.08.20:373][210]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.24-22.08.20:373][210]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.24-22.08.20:373][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.24-22.08.20:373][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.24-22.08.20:373][210]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.24-22.08.20:373][210]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.24-22.08.20:373][210]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.24-22.08.20:377][210]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.24-22.08.20:407][210]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2025.07.24-22.08.20:408][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.24-22.08.20:408][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.24-22.08.20:408][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.24-22.08.20:410][210]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.07.24-22.08.20:410][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.07.24-22.08.20:412][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.07.24-22.08.20:412][210]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.07.24-22.08.20:412][210]LogInit: FAudioDevice initialized with ID 4.
+[2025.07.24-22.08.20:412][210]LogAudio: Display: Audio Device (ID: 4) registered with world 'Krab'.
+[2025.07.24-22.08.20:412][210]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.07.24-22.08.20:417][210]LogLoad: Game class is 'GameModeBase'
+[2025.07.24-22.08.20:421][210]LogWorld: Bringing World /Game/UEDPIE_0_Krab.Krab up for play (max tick rate 0) at 2025.07.25-10.08.20
+[2025.07.24-22.08.20:422][210]LogWorld: Bringing up level for play took: 0.004658
+[2025.07.24-22.08.20:425][210]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.07.24-22.08.20:438][210]LogStreaming: Display: FlushAsyncLoading(1114,1113,1112,1111,1110,1109,1108,1107,1106,1105,1104,1103,1102,1101,1100,1099,1098,1097,1096,1095,1094,1093,1092,1091,1090,1089,1088,1087,1086,1085,1084,1083,1082,1081,1080,1079,1078,1065,1066,1067,1068,1069,1070,1071,1072,1073,1074,1075,1076,1077,1059,1060,1061,1062,1063,1064,1058,1041,1042,1043,1044,1045,1046,1047,1048,1049,1050,1051,1052,1053,1054,1055,1056,1057,1040,1038,1039,1037,1036): 79 QueuedPackages, 0 AsyncPackages
+[2025.07.24-22.08.20:841][210]PIE: Server logged in
+[2025.07.24-22.08.20:843][210]PIE: Play in editor total start time 0.563 seconds.
+[2025.07.24-22.08.26:505][511]LogStreaming: Display: UWorld::AddToWorld: updating components for /Memory/UEDPIE_0_4KK2QKVEOFJ8CPEK7RGZY61R9 took (less than) 30.37 ms
+[2025.07.24-22.09.05:036][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.24-22.09.05:036][644]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Krab
+[2025.07.24-22.09.05:072][644]LogWorld: UWorld::CleanupWorld for Krab, bSessionEnded=true, bCleanupResources=true
+[2025.07.24-22.09.05:072][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.24-22.09.05:073][644]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Krab.Krab
+[2025.07.24-22.09.05:079][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.24-22.09.05:089][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.24-22.09.05:123][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.24-22.09.05:124][644]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.07.24-22.09.05:124][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.07.24-22.09.05:127][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.07.24-22.09.05:142][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.07.24-22.09.05:265][645]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.07.24-22.09.28:281][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
