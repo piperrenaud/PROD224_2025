@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Content/BP_Helicopter.uasset",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Content/GM_Helicopter.uasset",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Content/basic.umap",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Plugins/W3_Content_Plugin/Content/Map/HeliLabs.umap",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Content/PC_Helicopter.uasset",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Content/Blueprints/BP_Helicopter.uasset",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Content/Blueprints/GM_Helicopter.uasset",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Content/Blueprints/PC_Helicopter.uasset",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Content/InputActions/IA_EngineOn.uasset",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Content/InputActions/IA_LiftUp.uasset",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Content/InputActions/IA_MoveLeft.uasset",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Content/InputActions/IA_MoveRight.uasset",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Content/InputActions/MappingContent.uasset",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_03/Content/InputActions/IA_MoveForward.uasset"
+			]
+		}
+	]
+}
