@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_05 5.5/Content/BS_MyBlendSpace.uasset",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_05 5.5/Content/Animations/Lab07_AnimBP.uasset",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_05 5.5/Content/Maps/AnimationLevel.umap",
+				"C:/Users/piper/Documents/Uni/PROD224_2025/Lab_05 5.5/Content/PlayerCharacter_BP.uasset"
+			]
+		}
+	]
+}
